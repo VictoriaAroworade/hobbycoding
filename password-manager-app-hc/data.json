@@ -1,0 +1,30 @@
+{
+    "Amazon": {
+        "email/username": "john.doe@gmail.com",
+        "password": "odZ*25xzW$TyF#I8"
+    },
+    "Google": {
+        "email/username": "john.doe@gmail.com",
+        "password": "6G#LUTKA9he#!b8"
+    },
+    "Facebook": {
+        "email/username": "john.doe@gmail.com",
+        "password": "2zn)m031i!fKqBrm"
+    },
+    "Myspace": {
+        "email/username": "john.doe@gmail.com",
+        "password": "s1Wf9k7#xEI*jo"
+    },
+    "Twitter": {
+        "email/username": "john.doe@gmail.com",
+        "password": "2V6(##CJFQ73OWzVk"
+    },
+    "Github": {
+        "email/username": "john.doe@gmail.com",
+        "password": "vV348NHPd#MN#bc"
+    },
+    "Hyatt": {
+        "email/username": "john.doe@gmail.com",
+        "password": "fg6##18SufAwob"
+    }
+}
