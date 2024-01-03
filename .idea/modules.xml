@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/hobbycoding.iml" filepath="$PROJECT_DIR$/.idea/hobbycoding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../vicaro_portfolio/.idea/vicaro_portfolio.iml" filepath="$PROJECT_DIR$/../../vicaro_portfolio/.idea/vicaro_portfolio.iml" />
     </modules>
   </component>
 </project>

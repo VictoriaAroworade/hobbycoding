@@ -71,7 +71,7 @@ website_input.config(bg="white", highlightbackground="white", fg="black")
 
 email_username_input = Entry(width=38)
 email_username_input.grid(row=2, column=1, columnspan=2)
-email_username_input.insert(0, string="taroworade@gmail.com")
+email_username_input.insert(0, string="john.doe@gmail.com")
 email_username_input.config(bg="white", highlightbackground="white", fg="black")
 
 pw_input = Entry(width=21)
