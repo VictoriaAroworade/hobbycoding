@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="pw manager + generator app">
       <change beforePath="$PROJECT_DIR$/password-manager-app-hc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-app-hc/main.py" afterDir="false" />
