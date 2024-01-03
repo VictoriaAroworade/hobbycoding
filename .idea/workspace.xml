@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="pw manager + generator app">
-      <change beforePath="$PROJECT_DIR$/password-manager-app-hc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-app-hc/main.py" afterDir="false" />
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="initial commit pomodoro app">
+      <change afterPath="$PROJECT_DIR$/pomodoro-app-hc/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pomodoro-app-hc/tomato.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,12 +82,29 @@
       <option name="project" value="LOCAL" />
       <updated>1704288387783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="pw manager + generator app">
+      <option name="closed" value="true" />
+      <created>1704288691818</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288691818</updated>
+    </task>
+    <task id="LOCAL-00005" summary="initial commit pomodoro app">
+      <option name="closed" value="true" />
+      <created>1704289023214</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1704289023214</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit new repo" />
     <MESSAGE value="pw manager + generator app" />
-    <option name="LAST_COMMIT_MESSAGE" value="pw manager + generator app" />
+    <MESSAGE value="initial commit pomodoro app" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit pomodoro app" />
   </component>
 </project>
