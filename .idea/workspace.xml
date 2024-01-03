@@ -1,13 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="initial commit new repo">
-      <change beforePath="$PROJECT_DIR$/.idea/hobbycoding.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/hobbycoding.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="pw manager + generator app">
       <change beforePath="$PROJECT_DIR$/password-manager-app-hc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/password-manager-app-hc/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,6 +24,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
@@ -65,11 +61,28 @@
       <option name="project" value="LOCAL" />
       <updated>1704288304060</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="pw manager + generator app">
+      <option name="closed" value="true" />
+      <created>1704288377424</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288377424</updated>
+    </task>
+    <task id="LOCAL-00003" summary="pw manager + generator app">
+      <option name="closed" value="true" />
+      <created>1704288387783</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704288387783</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit new repo" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit new repo" />
+    <MESSAGE value="pw manager + generator app" />
+    <option name="LAST_COMMIT_MESSAGE" value="pw manager + generator app" />
   </component>
 </project>

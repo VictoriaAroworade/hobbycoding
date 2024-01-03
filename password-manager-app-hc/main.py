@@ -41,7 +41,7 @@ def save():
 
 # ---------------------------- UI SETUP ------------------------------- #
 window = Tk()
-window.title("Tori's Password Manager")
+window.title("Password Manager")
 window.config(padx=50, pady=50, bg="white")
 
 # create canvas
