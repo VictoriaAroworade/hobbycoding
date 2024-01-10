@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="updated testing number for stock difference" />
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -146,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704813506695</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1704876155758</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1704876155758</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -158,7 +169,8 @@
     <MESSAGE value="initial commit stock monitoring project" />
     <MESSAGE value="added all functionalities, to complete when I get access to API again" />
     <MESSAGE value="updated testing number for stock difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated testing number for stock difference" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
