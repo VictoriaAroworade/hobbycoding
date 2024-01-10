@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="workspace">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="workspace commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +154,23 @@
       <option name="project" value="LOCAL" />
       <updated>1704876155758</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="updated code with API from stock company">
+      <option name="closed" value="true" />
+      <created>1704877925664</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1704877925664</updated>
+    </task>
+    <task id="LOCAL-00013" summary="workspace commit">
+      <option name="closed" value="true" />
+      <created>1704877935170</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1704877935170</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -170,7 +183,9 @@
     <MESSAGE value="added all functionalities, to complete when I get access to API again" />
     <MESSAGE value="updated testing number for stock difference" />
     <MESSAGE value="workspace" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
+    <MESSAGE value="updated code with API from stock company" />
+    <MESSAGE value="workspace commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
