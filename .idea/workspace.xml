@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="added some notes">
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="initial commit notes day 37">
+      <change afterPath="$PROJECT_DIR$/../../vicaro_portfolio/habit-tracker/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/100daysofcode/day-37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/100daysofcode/day-37/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,7 +28,9 @@
   &quot;associatedIndex&quot;: 8
 }</component>
   <component name="ProjectId" id="2aRjEhNo3p1OmEoWEgbM86ytbrD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="openDirectoriesWithSingleClick" value="true" />
@@ -49,6 +52,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project" />
       <recent name="$PROJECT_DIR$/../../vicaro_portfolio" />
       <recent name="$PROJECT_DIR$/../../vicaro_portfolio/100daysofcode/main" />
     </key>
@@ -253,7 +257,55 @@
       <option name="project" value="LOCAL" />
       <updated>1704879752180</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="added some notes, review later!">
+      <option name="closed" value="true" />
+      <created>1704880065460</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880065460</updated>
+    </task>
+    <task id="LOCAL-00025" summary="added teacher's solution">
+      <option name="closed" value="true" />
+      <created>1704880120481</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880120481</updated>
+    </task>
+    <task id="LOCAL-00026" summary="workspace">
+      <option name="closed" value="true" />
+      <created>1704880153016</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880153017</updated>
+    </task>
+    <task id="LOCAL-00027" summary="make update to send each article as a separate message">
+      <option name="closed" value="true" />
+      <created>1704880264270</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1704880264270</updated>
+    </task>
+    <task id="LOCAL-00028" summary="updated query from q to qInTitle">
+      <option name="closed" value="true" />
+      <created>1704882358482</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1704882358482</updated>
+    </task>
+    <task id="LOCAL-00029" summary="initial commit notes day 37">
+      <option name="closed" value="true" />
+      <created>1704883249614</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1704883249614</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -265,7 +317,6 @@
     <MESSAGE value="initial commit stock monitoring project" />
     <MESSAGE value="added all functionalities, to complete when I get access to API again" />
     <MESSAGE value="updated testing number for stock difference" />
-    <MESSAGE value="workspace" />
     <MESSAGE value="updated code with API from stock company" />
     <MESSAGE value="added some gvs for API endpoints" />
     <MESSAGE value="workspace commit" />
@@ -274,7 +325,13 @@
     <MESSAGE value="updated as had to be greater than 5, not greater than or equal" />
     <MESSAGE value="cleaned code" />
     <MESSAGE value="added some notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="added some notes" />
+    <MESSAGE value="added some notes, review later!" />
+    <MESSAGE value="added teacher's solution" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="make update to send each article as a separate message" />
+    <MESSAGE value="updated query from q to qInTitle" />
+    <MESSAGE value="initial commit notes day 37" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit notes day 37" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
