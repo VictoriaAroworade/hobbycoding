@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="workspace commit" />
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="added some notes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -178,7 +181,79 @@
       <option name="project" value="LOCAL" />
       <updated>1704877978129</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="added some gvs for API endpoints">
+      <option name="closed" value="true" />
+      <created>1704878404346</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1704878404346</updated>
+    </task>
+    <task id="LOCAL-00016" summary="workspace commit">
+      <option name="closed" value="true" />
+      <created>1704878429951</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1704878429951</updated>
+    </task>
+    <task id="LOCAL-00017" summary="updated code to get yesterday and day before yesterday code, and index via list of day items vs. dictionary">
+      <option name="closed" value="true" />
+      <created>1704879173523</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879173523</updated>
+    </task>
+    <task id="LOCAL-00018" summary="updates to code, fixed percentile difference and abs percentile number after testing">
+      <option name="closed" value="true" />
+      <created>1704879269071</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879269071</updated>
+    </task>
+    <task id="LOCAL-00019" summary="updated as had to be greater than 5, not greater than or equal">
+      <option name="closed" value="true" />
+      <created>1704879342806</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879342806</updated>
+    </task>
+    <task id="LOCAL-00020" summary="cleaned code">
+      <option name="closed" value="true" />
+      <created>1704879379915</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879379916</updated>
+    </task>
+    <task id="LOCAL-00021" summary="cleaned code">
+      <option name="closed" value="true" />
+      <created>1704879551034</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879551034</updated>
+    </task>
+    <task id="LOCAL-00022" summary="cleaned code">
+      <option name="closed" value="true" />
+      <created>1704879580279</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879580279</updated>
+    </task>
+    <task id="LOCAL-00023" summary="added some notes">
+      <option name="closed" value="true" />
+      <created>1704879752180</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704879752180</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -192,8 +267,14 @@
     <MESSAGE value="updated testing number for stock difference" />
     <MESSAGE value="workspace" />
     <MESSAGE value="updated code with API from stock company" />
+    <MESSAGE value="added some gvs for API endpoints" />
     <MESSAGE value="workspace commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace commit" />
+    <MESSAGE value="updated code to get yesterday and day before yesterday code, and index via list of day items vs. dictionary" />
+    <MESSAGE value="updates to code, fixed percentile difference and abs percentile number after testing" />
+    <MESSAGE value="updated as had to be greater than 5, not greater than or equal" />
+    <MESSAGE value="cleaned code" />
+    <MESSAGE value="added some notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="added some notes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -205,7 +286,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py</url>
-          <line>80</line>
+          <line>77</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
