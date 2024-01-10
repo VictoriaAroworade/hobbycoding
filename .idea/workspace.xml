@@ -170,7 +170,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704877935170</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="workspace commit">
+      <option name="closed" value="true" />
+      <created>1704877978129</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1704877978129</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -194,6 +202,11 @@
           <url>file://$PROJECT_DIR$/../../vicaro_portfolio/rain-alert/main.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../../vicaro_portfolio/stock-news-monitor-project/main.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
