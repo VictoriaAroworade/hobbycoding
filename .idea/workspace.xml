@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="initial commit notes day 37">
-      <change afterPath="$PROJECT_DIR$/../../vicaro_portfolio/habit-tracker/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../vicaro_portfolio/100daysofcode/day-37/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../vicaro_portfolio/100daysofcode/day-37/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="efded443-f21a-4a27-8db1-d24859902207" name="Changes" comment="updated directory" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +39,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/tori/Documents/GitHub/python/PycharmProjects/vicaro-portfolio/hobbycoding",
+    "last_opened_file_path": "/Users/tori/Documents/GitHub/python/PycharmProjects/hobbycoding",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -305,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704883249614</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="updated directory">
+      <option name="closed" value="true" />
+      <created>1704885624005</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1704885624005</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -331,7 +335,8 @@
     <MESSAGE value="make update to send each article as a separate message" />
     <MESSAGE value="updated query from q to qInTitle" />
     <MESSAGE value="initial commit notes day 37" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit notes day 37" />
+    <MESSAGE value="updated directory" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated directory" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
