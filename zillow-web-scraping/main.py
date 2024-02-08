@@ -8,9 +8,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 import time
 
-
-ZILLOW_URL = "https://appbrewery.github.io/Zillow-Clone/"
-GOOGLE_FORM_URL = "https://forms.gle/RZ2wyLwM4NUJKpAt7"
+ZILLOW_URL = ZILLOW_URL
+GOOGLE_FORM_URL = GOOGLE_URL
 
 # Scrape + Format Zillow Data
 response = requests.get(ZILLOW_URL)
@@ -28,8 +27,6 @@ prices = ["".join(char for char in price.text.strip() if char.isdigit()) for pri
 # link list
 find_links = soup.find_all(name="a", class_="StyledPropertyCardDataArea-anchor")
 links = [link.get("href") for link in find_links]
-
-
 
 # Create Driver + Complete Online Form
 
